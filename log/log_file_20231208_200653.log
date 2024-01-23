@@ -1,0 +1,2 @@
+2023-12-08 20:07:00,038:INFO: Starting ssh for ele_adv
+2023-12-08 20:07:00,038:INFO: Starting training with following parameters: {'base_path': './', 'src_train': 'dataset/ADV_ELE/ELE.txt', 'tgt_train': 'dataset/ADV_ELE/ADV.txt', 'src_valid': 'dataset/src_valid.txt', 'tgt_valid': 'dataset/tgt_valid.txt', 'ref_valid': 'dataset/ref_valid.pkl', 'best_model': 'cp/ele_adv/model.pt', 'checkpoint_path': 'cp/ele_adv/model_ckpt.pt', 'seed': 540}

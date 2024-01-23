@@ -1,0 +1,2 @@
+2023-12-09 02:22:26,559:INFO: Starting ssh for int_adv
+2023-12-09 02:22:26,559:INFO: Starting training with following parameters: {'base_path': './', 'src_train': 'dataset/ADV_INT/INT.txt', 'tgt_train': 'dataset/ADV_INT/ADV.txt', 'src_valid': 'dataset/src_valid.txt', 'tgt_valid': 'dataset/tgt_valid.txt', 'ref_valid': 'dataset/ref_valid.pkl', 'best_model': 'cp/int_adv/model.pt', 'checkpoint_path': 'cp/int_adv/model_ckpt.pt', 'seed': 540}

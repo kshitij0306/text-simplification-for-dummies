@@ -1,0 +1,19 @@
+# ELE - INT
+2023-12-08 14:05:48,028:INFO: Epoch: 0 | iter: 10 | avg. train loss: 1.5407428741455078 | time elapsed: 5.806442499160767
+2023-12-08 14:06:12,240:INFO: Completed Epoch: 0 | avg. eval loss: 0.00059 | blue score: 0.8123377613575395| Sari score: 0.4830905662546561 | time elapsed: 20.493204355239868
+2023-12-08 14:06:12,250:INFO: New best model found
+2023-12-08 14:08:54,370:INFO: Checkpoint saved successfully with time: 162.12006855010986
+2023-12-08 14:09:00,403:INFO: Epoch: 1 | iter: 10 | avg. train loss: 0.1408115139347501 | time elapsed: 5.4625632762908936
+2023-12-08 14:09:23,751:INFO: Completed Epoch: 1 | avg. eval loss: 0.00017 | blue score: 0.6798287921527888| Sari score: 0.48481437941915606 | time elapsed: 19.616023063659668
+2023-12-08 14:09:23,765:INFO: New best model found
+2023-12-08 14:12:10,214:INFO: Checkpoint saved successfully with time: 166.44764304161072
+2023-12-08 14:12:16,298:INFO: Epoch: 2 | iter: 10 | avg. train loss: 0.08280085399746895 | time elapsed: 5.4542555809021
+2023-12-08 14:12:40,607:INFO: Completed Epoch: 2 | avg. eval loss: 0.00006 | blue score: 0.8081845153981481| Sari score: 0.4884173630122287 | time elapsed: 20.565515518188477
+2023-12-08 14:12:40,618:INFO: New best model found
+2023-12-08 14:15:23,902:INFO: Checkpoint saved successfully with time: 163.28368425369263
+2023-12-08 14:15:29,857:INFO: Epoch: 3 | iter: 10 | avg. train loss: 0.07382629045605427 | time elapsed: 5.488006830215454
+2023-12-08 14:15:53,273:INFO: Completed Epoch: 3 | avg. eval loss: 0.00010 | blue score: 0.7095788022676941| Sari score: 0.4861835982947814 | time elapsed: 19.682547569274902
+2023-12-08 14:17:14,979:INFO: Checkpoint saved successfully with time: 81.69479250907898
+2023-12-08 14:17:20,849:INFO: Epoch: 4 | iter: 10 | avg. train loss: 0.05875394788745325 | time elapsed: 5.44441294670105
+2023-12-08 14:17:42,407:INFO: Completed Epoch: 4 | avg. eval loss: 0.00009 | blue score: 0.7297434846502526| Sari score: 0.48647534672987447 | time elapsed: 17.79689598083496
+2023-12-08 14:19:03,837:INFO: Checkpoint saved successfully with time: 81.41385507583618

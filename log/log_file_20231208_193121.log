@@ -1,0 +1,17 @@
+2023-12-08 19:31:28,821:INFO: Starting ssh for int_adv
+2023-12-08 19:31:28,821:INFO: Starting training with following parameters: {'base_path': './', 'src_train': 'dataset/ADV_INT/INT.txt', 'tgt_train': 'dataset/ADV_INT/ADV.txt', 'src_valid': 'dataset/src_valid.txt', 'tgt_valid': 'dataset/tgt_valid.txt', 'ref_valid': 'dataset/ref_valid.pkl', 'best_model': 'cp/int_adv/model.pt', 'checkpoint_path': 'cp/int_adv/model_ckpt.pt', 'seed': 540}
+2023-12-08 19:31:35,122:INFO: Epoch: 0 | iter: 10 | avg. train loss: 1.576452773064375 | time elapsed: 6.260599613189697
+2023-12-08 19:31:40,676:INFO: Epoch: 0 | iter: 20 | avg. train loss: 0.18191212128658663 | time elapsed: 11.814542293548584
+2023-12-08 19:32:03,097:INFO: Completed Epoch: 0 | avg. eval loss: 0.00028 | blue score: 0.7016781505059314| Sari score: 0.4843763282623999 | time elapsed: 21.48751974105835
+2023-12-08 19:32:08,634:INFO: Epoch: 1 | iter: 10 | avg. train loss: 0.0977031302463729 | time elapsed: 5.535976886749268
+2023-12-08 19:32:14,306:INFO: Epoch: 1 | iter: 20 | avg. train loss: 0.06625707508763412 | time elapsed: 11.207637786865234
+2023-12-08 19:32:34,313:INFO: Completed Epoch: 1 | avg. eval loss: 0.00008 | blue score: 0.6644338097927197| Sari score: 0.4875217063024156 | time elapsed: 19.065531969070435
+2023-12-08 19:32:39,982:INFO: Epoch: 2 | iter: 10 | avg. train loss: 0.058604396021110006 | time elapsed: 5.6685404777526855
+2023-12-08 19:32:45,767:INFO: Epoch: 2 | iter: 20 | avg. train loss: 0.05524211627114539 | time elapsed: 11.45295238494873
+2023-12-08 19:33:05,596:INFO: Completed Epoch: 2 | avg. eval loss: 0.00009 | blue score: 0.70942042876658| Sari score: 0.49007657762520407 | time elapsed: 18.861258268356323
+2023-12-08 19:33:11,298:INFO: Epoch: 3 | iter: 10 | avg. train loss: 0.04880529265210498 | time elapsed: 5.700949668884277
+2023-12-08 19:33:17,166:INFO: Epoch: 3 | iter: 20 | avg. train loss: 0.05518077679512601 | time elapsed: 11.569239616394043
+2023-12-08 19:33:34,674:INFO: Completed Epoch: 3 | avg. eval loss: 0.00016 | blue score: 0.7504664118679646| Sari score: 0.48435017042870787 | time elapsed: 16.52710199356079
+2023-12-08 19:33:40,431:INFO: Epoch: 4 | iter: 10 | avg. train loss: 0.04122475798067171 | time elapsed: 5.756439924240112
+2023-12-08 19:33:46,347:INFO: Epoch: 4 | iter: 20 | avg. train loss: 0.04477390072754872 | time elapsed: 11.6726655960083
+2023-12-08 19:34:04,714:INFO: Completed Epoch: 4 | avg. eval loss: 0.00004 | blue score: 0.7670282356154556| Sari score: 0.48603782924307076 | time elapsed: 17.37677764892578

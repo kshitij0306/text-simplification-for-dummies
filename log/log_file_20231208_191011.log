@@ -1,0 +1,17 @@
+# Int - Advanced
+2023-12-08 19:10:48,238:INFO: Model loaded from saved checkpoint with start epoch: 5 and loss: 8.746759577967112e-05
+2023-12-08 19:10:54,577:INFO: Epoch: 0 | iter: 10 | avg. train loss: 0.0418193658842938 | time elapsed: 6.337646722793579
+2023-12-08 19:11:00,127:INFO: Epoch: 0 | iter: 20 | avg. train loss: 0.053909489268519906 | time elapsed: 11.88797378540039
+2023-12-08 19:11:17,339:INFO: Completed Epoch: 0 | avg. eval loss: 0.00004 | blue score: 0.724114711687242| Sari score: 0.48478151368286665 | time elapsed: 16.27579164505005
+2023-12-08 19:11:22,869:INFO: Epoch: 1 | iter: 10 | avg. train loss: 0.05143459449755028 | time elapsed: 5.530332565307617
+2023-12-08 19:11:28,552:INFO: Epoch: 1 | iter: 20 | avg. train loss: 0.03928619697336444 | time elapsed: 11.212792873382568
+2023-12-08 19:11:45,266:INFO: Completed Epoch: 1 | avg. eval loss: 0.00013 | blue score: 0.8120862380326577| Sari score: 0.4845014421474352 | time elapsed: 15.766753435134888
+2023-12-08 19:11:50,918:INFO: Epoch: 2 | iter: 10 | avg. train loss: 0.037723802524851635 | time elapsed: 5.6511147022247314
+2023-12-08 19:11:56,718:INFO: Epoch: 2 | iter: 20 | avg. train loss: 0.03809078220413653 | time elapsed: 11.451545715332031
+2023-12-08 19:12:16,501:INFO: Completed Epoch: 2 | avg. eval loss: 0.00001 | blue score: 0.7738314327884561| Sari score: 0.4960803190579078 | time elapsed: 18.809406518936157
+2023-12-08 19:12:22,212:INFO: Epoch: 3 | iter: 10 | avg. train loss: 0.03198577251896495 | time elapsed: 5.710460662841797
+2023-12-08 19:12:28,083:INFO: Epoch: 3 | iter: 20 | avg. train loss: 0.04030563888202465 | time elapsed: 11.581107378005981
+2023-12-08 19:12:48,569:INFO: Completed Epoch: 3 | avg. eval loss: 0.00001 | blue score: 0.6466925194125199| Sari score: 0.4885745201918844 | time elapsed: 19.50399351119995
+2023-12-08 19:12:54,368:INFO: Epoch: 4 | iter: 10 | avg. train loss: 0.03325722251611296 | time elapsed: 5.7983784675598145
+2023-12-08 19:13:00,287:INFO: Epoch: 4 | iter: 20 | avg. train loss: 0.032051194592682464 | time elapsed: 11.716699123382568
+2023-12-08 19:13:19,351:INFO: Completed Epoch: 4 | avg. eval loss: 0.00004 | blue score: 0.7302215088994966| Sari score: 0.4857409807455306 | time elapsed: 18.07624864578247
